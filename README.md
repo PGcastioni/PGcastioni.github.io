@@ -7,7 +7,7 @@ Tarragona, Spain
 
 #### Contacts
 
-[E-mail](piergiorgio.castioni@urv.cat) - [Google Scholar](https://scholar.google.com/citations?user=Aj4OwMYAAAAJ&hl=it) - [X (formerly Twitter)](https://x.com/pppiergiorgio) - [Linkedin](https://www.linkedin.com/in/piergiorgio-castioni-5087a41a0/)
+[E-mail](mailto:piergiorgio.castioni@urv.cat) - [Google Scholar](https://scholar.google.com/citations?user=Aj4OwMYAAAAJ&hl=it) - [X (formerly Twitter)](https://x.com/pppiergiorgio) - [Linkedin](https://www.linkedin.com/in/piergiorgio-castioni-5087a41a0/)
 
 #### About
 
