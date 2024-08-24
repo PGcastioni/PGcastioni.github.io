@@ -28,12 +28,46 @@ _______
 
 #### Talks
 
-- **Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks** <br>
-Invited seminar at the university of Padova.
+##### 2024
+
+- **Invited seminar at the university of Padova** <br>
+Title: _Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks_
+- **Mediterranean School of Complex Networks** (Grado, Italy) - **Best Student Talk award** <br>
+Title: _Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks_
+- **NetSci, International School and Conference on Network Science** (Quebec City, Canada) <br>
+Title: _Timing as a fundamental feature for an effective vaccination campaign against large resurgence of cases_
+- **Jornada de Complexitat 2024** (Barcelona, Spain) <br>
+Title: _Timing as a fundamental feature for an effective vaccination campaign against large resurgence of cases_
+- **NetSciX, International School and Conference on Network Science** (Venice, Italy) <br>
+Title: _Vaccination strategies for COVID-19 in the Omicron era: A mathematical model analysis_
+
+##### 2023
+
+- **NetSci, International School and Conference on Network Science** (Vienna, Austria) <br>
+Title: _A model analysis of vaccination strategies for COVID-19 when countering reinfections and waning immunity in the Omicron era_
+- **Doctoral Workshop in Computer Science and Math** (Tarragona, Spain) <br>
+Title: _Vaccination Strategies for COVID-19 in the Omicron Era: A Mathematical Model Analysis_
+- **Complenet, International Conference on Complex Networks** (Aveiro, Portugal) <br>
+Title: _A model analysis of vaccination strategies for COVID-19 when countering reinfections and waning immunity in the Omicron era_
+
+##### 2022
+
+- **CCS, Conference of Complex Systems** (Palma de Mallorca, Spain) <br>
+Title: _Optimal vaccination strategies countering reinfections and waning immunity in a metapopulation model_
+- **Mediterranean School of Complex Networks** (Catania, Italy) <br>
+Title: _Critical behavior in interdependent spatial spreading processes with distinct characteristic time scales_
+- **COMSOTEC, Workshop on Complex Sociotechnical Systems** (Tarragona, Spain) <br>
+Title: _The voice of few, the opinions of many: evidence of social biases in Twitter COVID-19 fake news sharing_
+
+#### Poster
+
+- **Jornada de Complexitat 2023** (Barcelona, Spain) <br>
+Title: _Optimal vaccination strategies to counter the risk of COVID-19 reinfections: A mathematical model analysis_
+- **Summer Schools of Statistical Physics of Complex Systems** and **Complex Socio-Technical systems** (Palma de Mallorca, Spain)
+Title: _Optimal vaccination strategies countering reinfections and waning immunity in a metapopulation model_
 
 
-| abc | defghi |
-:-: | -----------:
-bar | baz
+
+
 
 
