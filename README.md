@@ -5,6 +5,10 @@ PhD Candidate <br>
 Universitat Rovira i Virgili <br>
 Tarragona, Spain
 
+#### Contacts
+
+[E-mail](piergiorgio.castioni@urv.cat) - [Google Scholar](https://scholar.google.com/citations?user=Aj4OwMYAAAAJ&hl=it) - [X (formerly Twitter)](https://x.com/pppiergiorgio) - [Linkedin](https://www.linkedin.com/in/piergiorgio-castioni-5087a41a0/)
+
 #### About
 
 From the academic standpoint I am theory-oriented, but the computational part of my job also gives me great satisfaction. My background is mostly in **statistical physics** and **dynamical systems**, in particular in out-of-equilibrium physics, stochastic processes and network theory. However with my master thesis project in 2020 I have been began a journey through **mathematical epidemiology** that is still continuing to this day. In particular I have been focusing on **epidemics on complex network**, studying what effects the spatial heterogeneity has on the epidemic spreading, and **epidemic control**, in particular in relation to vaccines, optimal distribution strategies and the role of waning immunity. <br>
@@ -26,9 +30,7 @@ Castioni, P., Gómez, S., Granell, C., Arenas, A. <br>
 
 _______
 
-#### Talks
-
-Equal titles do not imply identical presentations
+#### Talks (equal titles do not imply identical presentations)
 
 ##### 2024
 
@@ -71,5 +73,5 @@ Title: _Optimal vaccination strategies countering reinfections and waning immuni
 
 
 
-
+(last updated on August 2024)
 
