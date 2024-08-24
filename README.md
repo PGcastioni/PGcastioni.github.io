@@ -28,6 +28,8 @@ _______
 
 #### Talks
 
+Equal titles do not imply identical presentations
+
 ##### 2024
 
 - **Invited seminar at the university of Padova** <br>
@@ -59,7 +61,7 @@ Title: _Critical behavior in interdependent spatial spreading processes with dis
 - **COMSOTEC, Workshop on Complex Sociotechnical Systems** (Tarragona, Spain) <br>
 Title: _The voice of few, the opinions of many: evidence of social biases in Twitter COVID-19 fake news sharing_
 
-#### Poster
+#### Posters
 
 - **Jornada de Complexitat 2023** (Barcelona, Spain) <br>
 Title: _Optimal vaccination strategies to counter the risk of COVID-19 reinfections: A mathematical model analysis_
