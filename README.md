@@ -34,6 +34,7 @@ _______
 
 ##### 2024
 
+- **Invited seminar at the university of Stockholm** <br>
 - **Invited seminar at the university of Padova** <br>
 Title: _Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks_
 - **Mediterranean School of Complex Networks** (Grado, Italy) - **Best Student Talk award** <br>
