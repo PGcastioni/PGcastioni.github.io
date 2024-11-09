@@ -26,7 +26,7 @@ Castioni, P., Andrighetto, G., Gallotti, R., Polizzi, E. De Domenico, M. <br>
 [Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220716)
 - **Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks** <br>
 Castioni, P., Gómez, S., Granell, C., Arenas, A. <br>
-[arxiv](https://www.nature.com/articles/s44260-024-00020-0)
+[NPJ Complexity](https://www.nature.com/articles/s44260-024-00020-0)
 
 _______
 
