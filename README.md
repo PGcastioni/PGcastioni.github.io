@@ -1,4 +1,4 @@
-![My Image](self.jpeg)
+<img src="self.jpeg" alt="My Image" width="300">
 
 ## Piergiorgio Castioni
 
