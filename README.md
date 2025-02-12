@@ -1,3 +1,5 @@
+![My Image](self.jpeg)
+
 ## Piergiorgio Castioni
 
 PhD Candidate <br>
@@ -18,15 +20,20 @@ ______
 
 #### Publications
 
-- **Critical behaviour in interdependent spatial spreading processes with distinct characteristic time scales** <br>
-Castioni, P., Gallotti, R., De Domenico, M. <br>
-[Communication Physics](https://www.nature.com/articles/s42005-021-00631-2)
-- **The voice of few, the opinions of many: evidence of social biases in Twitter COVID-19 fake news sharing** <br>
-Castioni, P., Andrighetto, G., Gallotti, R., Polizzi, E. De Domenico, M. <br>
-[Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220716)
+- **Network-Driven Vaccination Strategies for Preventing Rebound Dynamics in Metapopulation Epidemic Control** (preprint) <br>
+Castioni, P., Arenas, A. <br>
+[arXiv](https://arxiv.org/abs/2502.01354)
 - **Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks** <br>
 Castioni, P., Gómez, S., Granell, C., Arenas, A. <br>
 [NPJ Complexity](https://www.nature.com/articles/s44260-024-00020-0)
+- **The voice of few, the opinions of many: evidence of social biases in Twitter COVID-19 fake news sharing** <br>
+Castioni, P., Andrighetto, G., Gallotti, R., Polizzi, E. De Domenico, M. <br>
+[Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.220716)
+- **Critical behaviour in interdependent spatial spreading processes with distinct characteristic time scales** <br>
+Castioni, P., Gallotti, R., De Domenico, M. <br>
+[Communication Physics](https://www.nature.com/articles/s42005-021-00631-2)
+
+
 
 _______
 
