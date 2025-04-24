@@ -20,6 +20,9 @@ ______
 
 #### Publications
 
+- **The spread of the Delta variant in Catalonia during summer 2021: Modelling and interpretation** <br>
+Steinegger, B., Burgio, G., Castioni, P., Granell, C., Arenas, A. <br>
+[Journal of Infection and Public Health](https://www.sciencedirect.com/science/article/pii/S1876034125001200)
 - **Network-Driven Vaccination Strategies for Preventing Rebound Dynamics in Metapopulation Epidemic Control** (preprint) <br>
 Castioni, P., Arenas, A. <br>
 [arXiv](https://arxiv.org/abs/2502.01354)
@@ -81,5 +84,5 @@ Title: _Optimal vaccination strategies countering reinfections and waning immuni
 
 
 
-(last updated on March 2025)
+(last updated on April 2025)
 
