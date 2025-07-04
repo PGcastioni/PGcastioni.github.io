@@ -25,7 +25,7 @@ Benjamin Steinegger, Giulio Burgio, Piergiorgio Castioni, Clara Granell, Alex Ar
 [Journal of Infection and Public Health](https://www.sciencedirect.com/science/article/pii/S1876034125001200) (2025)
 - **Network-Driven Vaccination Strategies for Preventing Rebound Dynamics in Metapopulation Epidemic Control** (preprint) <br>
 Piergiorgio Castioni, Alex Arenas <br>
-[arXiv](https://arxiv.org/abs/2502.01354) (2025)
+[Physical Review E](https://journals.aps.org/pre/abstract/10.1103/51fg-4rhx) (2025)
 - **Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks** <br>
 Piergiorgio Castioni, Sergio Gómez, Clara Granell, Alex Arenas <br>
 [NPJ Complexity](https://www.nature.com/articles/s44260-024-00020-0) (2024)
