@@ -23,7 +23,7 @@ ______
 - **The spread of the Delta variant in Catalonia during summer 2021: Modelling and interpretation** <br>
 Benjamin Steinegger, Giulio Burgio, Piergiorgio Castioni, Clara Granell, Alex Arenas <br>
 [Journal of Infection and Public Health](https://www.sciencedirect.com/science/article/pii/S1876034125001200) (2025)
-- **Network-Driven Vaccination Strategies for Preventing Rebound Dynamics in Metapopulation Epidemic Control** (preprint) <br>
+- **Network-Driven Vaccination Strategies for Preventing Rebound Dynamics in Metapopulation Epidemic Control** <br>
 Piergiorgio Castioni, Alex Arenas <br>
 [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/51fg-4rhx) (2025)
 - **Rebound in epidemic control: How misaligned vaccination timing amplifies infection peaks** <br>
