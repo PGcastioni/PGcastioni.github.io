@@ -42,6 +42,10 @@ _______
 
 #### Talks (equal titles do not imply identical presentations)
 
+##### 2026
+- **CS3 Conference** (Sevilla, Spain) <br>
+Title: _Lifetime patterns of reinfections: epidemic cohorts as traveling waves_
+
 ##### 2024
 
 - **Invited seminar at the university of Stockholm** <br>
