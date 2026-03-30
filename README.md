@@ -1,8 +1,8 @@
 <img src="self.jpeg" alt="My Image" width="300">
 
-## Piergiorgio Castioni
+## Piergiorgio Castioni, PhD
 
-PhD Candidate <br>
+Postdoctoral researcher <br>
 [AlephSys Group](https://alephsyslab.com/) <br>
 Universitat Rovira i Virgili <br>
 Tarragona, Spain
